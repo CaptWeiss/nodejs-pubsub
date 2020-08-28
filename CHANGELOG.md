@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+### [2.5.1](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.5.0...v2.5.1) (2020-08-28)
+
+
+### Bug Fixes
+
+* move system and samples test from Node 10 to Node 12 ([#1094](https://www.github.com/googleapis/nodejs-pubsub/issues/1094)) ([693116a](https://www.github.com/googleapis/nodejs-pubsub/commit/693116afb3776a8696c52d890edf9a57423896dc))
+
 ## [2.5.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.4.0...v2.5.0) (2020-08-17)
 
 
